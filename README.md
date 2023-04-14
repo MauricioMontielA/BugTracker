@@ -1,4 +1,4 @@
-# Bug tracker
+# API Bug tracker
 ## Modelo entidad relacion
 ![Imagen del modelo](./modelo-bug-tracker.jpg)
 
